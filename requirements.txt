@@ -1,6 +1,6 @@
-streamlit  
-sentence-transformers  
-nltk  
-transformers  
-torch  
+streamlit==1.24.1
+sentence-transformers==2.2.2
+nltk==3.8.1
+transformers==4.33.1
+torch==2.0.1
 
